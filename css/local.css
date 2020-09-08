@@ -1,7 +1,8 @@
 body {
 	height: 100vh;
 	background: linear-gradient(to bottom right, #ff99cc 0%, #ff5050 100%);
+	background-repeat: no-repeat;
 }
 div.main-title {
-	padding: 15vh, auto;
+	padding: 20vh, auto, 15vh;
 }
