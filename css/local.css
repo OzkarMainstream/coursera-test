@@ -1,7 +1,8 @@
 body {
 	height: 100vh;
 	background: linear-gradient(to bottom right, #000099 -10%, #ff0000 122%);
-	background-repeat: no-repeat;	
+	background-repeat: no-repeat;
+	color: #f3f3f3;	
 }
 div.main-title {
 	margin-top: 25vh;
